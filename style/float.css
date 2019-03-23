@@ -1,0 +1,62 @@
+.fixed-box {
+    width: 50%;
+    height: 200px;
+    background: red;
+}
+
+/* img {
+    float: right;
+    width: 300px;
+}
+
+.clear {
+    clear: both;
+} */
+
+/* .container {
+    border: 1px solid red;
+    padding: 10px;
+}
+
+
+.box {
+    width: 20vw;
+    height: 20vw;
+}
+
+.box1 {
+    background: red;
+    float: left;
+}
+
+.box2 {
+    float: left;
+    background: black;
+}
+
+.box3 {
+    float: left;
+    background: green;
+}
+
+.container > div{
+    background: yellow;
+}
+
+.clearfix::after{
+    content: "";
+    display: block;
+    clear: both;
+} */
+
+/* .clear {
+    clear: both;
+} */
+/* img {
+    width: 200px;
+    float: left;
+}
+
+p {
+    border: 1px solid red;
+} */

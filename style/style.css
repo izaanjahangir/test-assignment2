@@ -1,0 +1,129 @@
+body {
+    height: 1200px
+}
+.para {
+    position: relative;
+    border: 1px solid red;
+}
+
+.para2 {
+    position: relative;
+    border: 1px solid green;
+}
+
+.parent {
+    width: 500px;
+    height: 500px;
+    border: 1px solid blue;
+    /* position: relative; */
+}
+
+.fixed {
+    width: 100px;
+    height: 100px;
+    background: red;
+    position: fixed;
+    top: 20px;
+    z-index: -10;
+}
+
+.box-absolute {
+    width: 100px;
+    height: 100px;
+    background: red;
+    position: absolute;
+    right: 0;
+}
+/* .title {
+    float: left;
+    width: 100px;
+    padding-right: 10px;
+}
+
+div {
+    margin: 5px;
+}
+
+#submit {
+    cursor: pointer;
+} */
+
+/* input {
+    font-size: 120%;
+    color: #5a5854;
+    background-color: #f2f2f2;
+    border: 1px solid #bdbdbd;
+    border-radius: 5px;
+    height: 100px;
+    padding: 5px 5px 5px 30px;
+    display: block;
+    margin-bottom: 10px;
+    background-image: url("../image/me small.jpg");
+    background-repeat: no-repeat;
+    background-position: 5px center;
+}
+
+input:hover {
+    background-color: red;
+    border: 1px solid #b1e1e4;
+} */
+
+/* .one {
+    empty-cells: show;
+    border-spacing: 20px;
+    border-collapse: collapse;
+}
+td {
+    border: 1px solid red;
+} */
+
+/* ul {
+    list-style-position: inside;
+} */
+
+/* ul {
+    list-style-image: url("../image/me small.jpg"); 
+} */
+
+/* .alpha {
+    list-style-type: lower-alpha
+} */
+
+/* .border-radius {
+    width: 50vw;
+    height: 50vw;
+    margin: auto;
+    background: red;
+    border-radius: 100%; 
+} */
+
+/* .box-shadow {
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    background: red;
+    box-shadow: -50px -5px 20px black;
+} */
+
+/* .border-image {
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    border: 20px solid;
+    border-image: url("../image/me.jpg") 150 repeat;
+} */
+
+/* span {
+    background: red;
+}
+
+.d-inline-block {
+    display: inline-block;
+    background: green;
+    color: white
+}
+
+.d-none {
+    display: none;
+    visibility: hidden;
+} */
